@@ -4,7 +4,18 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World");
+console.log("slaps");
+//console.log(slaps);
+//console.log(slaps
+//console.log("slaps");
+console.log(8);
+console.log(8 + 9);
+console.log("slaps"); console.log("more slaps");
+console.log('"Quoth the Slaps"');
+
+
+
 
 /*  
 Next, PLAY! 
